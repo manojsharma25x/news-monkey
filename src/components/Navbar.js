@@ -28,7 +28,7 @@ export class Navbar extends Component {
                 <li className="nav-item">
                   <Link
                     to="/"
-                    className="nav-link active"
+                    className="nav-link"
                     aria-current="page"
                     href="/"
                   >
